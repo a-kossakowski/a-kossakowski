@@ -8,9 +8,11 @@
 
 I'm a Bioinformatics Researcher at the Institute of Biochemistry and Biophysics PAS, Warsaw. My expertise lies in proteomics, genomics, and computational biology. I have a strong background in Python and High-Performance Computing (HPC).
 
-## My ORCID
+---
 
-**[Aleksander Kossakowski](https://orcid.org/0000-0003-2173-759X)**
+## Identifiers
+
+- **ORCID**: [0000-0003-2173-759X](https://orcid.org/0000-0003-2173-759X)
 
 ---
 
