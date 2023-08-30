@@ -15,14 +15,14 @@ As a passionate bioinformatic scientist, I've delved into the intricacies of lif
 ---
 
 🎓 **Education**
-- 🧬 BSc in Bioinformatics: My academic voyage kick-started with a blend of experimental techniques and bioinformatics approaches to unravel the mysteries of bacteria. This early exposure laid the foundation for my love affair with data-driven scientific exploration.
-- 🥒 MSc in Bioinformatics: During my master's, I shifted my focus to the fascinating world of cucumbers, employing advanced bioinformatics tools to study their genetic intricacies. The versatility of bioinformatics never ceases to amaze me!
+- 🧬 BSc in Bioinformatics at [SGGW-WULS](https://www.sggw.edu.pl/en/): My academic voyage kick-started with a blend of experimental techniques and bioinformatics approaches to unravel the mysteries of bacteria. This early exposure laid the foundation for my love affair with data-driven scientific exploration.
+- 🥒 MSc in Bioinformatics at [SGGW-WULS](https://www.sggw.edu.pl/en/): During my master's, I shifted my focus to the fascinating world of cucumbers, employing advanced bioinformatics tools to study their genetic intricacies. The versatility of bioinformatics never ceases to amaze me!
 - 🍄 PhD in Bioinformatics at [IBB PAS](https://ibb.edu.pl/en/): My doctoral journey led me into the realm of early diverging fungi. Armed with an array of bioinformatic techniques, I embarked on deciphering the genomic secrets of these enigmatic organisms.
 
 ---
 
 🔍 **Research Highlights**
-- 🦠 Bacterial Alchemy: In my bachelor's years, I wove together experimental assays and bioinformatics wizardry to decode virulence effectors of _Pseudomonas sytingea_, navigating between biology and informatics.
+- 🦠 Bacterial Alchemy: In my bachelor's years, I wove together experimental assays and bioinformatics wizardry to decode virulence effectors of _Pseudomonas sytingae_, navigating between biology and informatics.
 - 🥒 Cucumber Chronicles: My master's escapade involved untangling the genomic vine of cucumbers, employing state-of-the-art bioinformatics methods to cultivate a deeper understanding of their giberellin synthesis enzymes.
 - 🍄 Fungal Odyssey: During my PhD, I embarked on an epic quest through the uncharted territories of early diverging fungi. Armed with computational prowess, I've been uncovering various tales encoded in their proteomes, by working mainly on functional annotation of domains of unknown functions and non-domain proteins.
 
