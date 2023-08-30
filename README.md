@@ -1,7 +1,7 @@
 # Hello, I'm Aleksander - Alek, Olek! 👋
 
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Researcher-blue)
-![Python](https://img.shields.io/badge/Python-Expert-green)
+![Python](https://img.shields.io/badge/Python-Proficient-green)
 ![HPC](https://img.shields.io/badge/HPC-Proficient-orange)
 
 ## 📌 About Me
