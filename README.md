@@ -22,7 +22,7 @@ As a passionate bioinformatic scientist, I've delved into the intricacies of lif
 ---
 
 🔍 **Research Highlights**
-- 🦠 Bacterial Alchemy: In my bachelor's years, I wove together experimental assays and bioinformatics wizardry to decode virulence effectors of _Pseudomonas sytingae_, navigating between biology and informatics.
+- 🦠 Bacterial Alchemy: In my bachelor's years, I wove together experimental assays and bioinformatics wizardry to decode virulence effectors of _Pseudomonas syringae_, navigating between biology and informatics.
 - 🥒 Cucumber Chronicles: My master's escapade involved untangling the genomic vine of cucumbers, employing state-of-the-art bioinformatics methods to cultivate a deeper understanding of their giberellin synthesis enzymes.
 - 🍄 Fungal Odyssey: During my PhD, I embarked on an epic quest through the uncharted territories of early diverging fungi. Armed with computational prowess, I've been uncovering various tales encoded in their proteomes, by working mainly on functional annotation of domains of unknown functions and non-domain proteins.
 
