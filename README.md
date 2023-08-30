@@ -6,7 +6,7 @@
 
 ## 📌 About Me
 
-As a passionate bioinformatic scientist, I've delved into the intricacies of life at the molecular level. My journey began at [SGGW-WULS](https://www.sggw.pl/en), where I cultivated my fascination for bioinformatics. From the very start of my studies, I was captivated by the potential of merging biology with cutting-edge computational methods.
+As a passionate bioinformatic scientist, I've delved into the intricacies of life at the molecular level. My journey was inspired by my Grandpa, Krzysztof Kręc, who was a mycologist that switched to the agriculture after working in the pharma industry. I cultivated my fascination for bioinformatics, from the very start of my studies - I was captivated by the potential of merging biology with cutting-edge computational methods.
 
 ### Identifiers
 
