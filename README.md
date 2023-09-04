@@ -2,7 +2,7 @@
 
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Researcher-blue)
 ![Python](https://img.shields.io/badge/Python-Proficient-green)
-![HPC](https://img.shields.io/badge/HPC-Proficient-green)
+![Bash](https://img.shields.io/badge/Bash-Proficient-green)
 
 ## 📌 About Me
 
