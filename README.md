@@ -6,7 +6,7 @@
 
 ## 📌 About Me
 
-My **bio**-journey was inspired by my Grandpa, Krzysztof Kręc, who was a mycologist graduated from [UMCS](https://www.umcs.pl/en/). Inspired by my Grandpa I delved into the depths of biology, **overcoming my disability**. I've found ouyt that one can "make biology" by any means other than working in a vetlab - that is how I discovered fascinating field of **bioinormatics**. 
+My **bio**-journey was inspired by my Grandpa, Krzysztof Kręc, who was a mycologist graduated from [UMCS](https://www.umcs.pl/en/). Inspired by my Grandpa I delved into the depths of biology, **overcoming my disability**. I've found out that one can "make biology" by means other than working in a vetlab - that is how I discovered fascinating field of **bioinormatics**. 
 As a passionate bioinformatic scientist, I've delved into the intricacies of life at the molecular level.
 
 ### Identifiers
