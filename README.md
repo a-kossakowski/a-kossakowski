@@ -47,24 +47,19 @@ As a passionate bioinformatic scientist, I've delved into the intricacies of lif
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=a-kossakowski&show_icons=true&theme=radical)
-
----
-
 ## 🎯 Research Interests
 
 - Proteomics
 - Genomics
 - Computational Biology/Bioinformatics
+- Programming
 - Fungi
 - Medical Sciences
+- Statistics
 
 ---
 
 ## 📝 Scientific Skills
 
 - **Scientific Writing**: Proficient in drafting and reviewing scientific papers.
-- **Function Annotation**: Skilled in the function annotation of proteins using various methods.
-
+- **Scientific Results Presenting**: Showcasing research results in a understandable way.
