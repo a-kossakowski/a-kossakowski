@@ -33,7 +33,7 @@ As a passionate bioinformatic scientist, I've delved into the intricacies of lif
 
 - **Languages**: Python, Bash
 - **Technologies**: HPC, Data Analysis
-- **Domains**: Bioinformatics, Proteomics, Genomics, Fungi
+- **Domains**: Bioinformatics, Proteomics, Genomics, Fungi, Statistics Foundamentals
 - **Bioinformatics Tools**: Protein Feature Prediction, Remote Homology Methods
 - **Other Skills**: Scientific Writing and Reading, Function Annotation of Proteins
 
@@ -43,6 +43,7 @@ As a passionate bioinformatic scientist, I've delved into the intricacies of lif
 
 - **[bioinfo_scripts_Python](https://github.com/a-kossakowski/bioinfo_scripts_Python)**: Practical coding presentations for bioinformatics.
 - **[bioinfo_scripts_Bash](https://github.com/a-kossakowski/bioinfo_scripts_Bash)**: Scripts for biological data cleaning and parsing.
+- **[breast_cancer_gene_expression_analysis](https://github.com/a-kossakowski/breast_cancer_gene_expression_analysis)**: Statistical analysis of RNAseq data of breast cancer cells drug treatment
 
 ---
 
