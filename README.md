@@ -65,7 +65,7 @@ My journey into bioinformatics was catalyzed by my grandfather, Krzysztof Kręc,
 
 ## 📝 Scientific Skills
 
--- **Scientific Writing**: Adept at composing and reviewing academic manuscripts.
+- **Scientific Writing**: Adept at composing and reviewing academic manuscripts.
 - **Results Presentation**: Proficient in conveying research findings in a comprehensible manner.
 
 ---
