@@ -71,4 +71,3 @@ My journey into bioinformatics was catalyzed by my grandfather, Krzysztof Kręc,
 ---
 
 Thank you for visiting my GitHub profile. I invite you to explore my repositories and would be delighted to discuss potential collaborations or any inquiries you may have.
-Feel free to make any adjustments to suit your needs!
