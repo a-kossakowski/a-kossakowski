@@ -14,7 +14,7 @@ My journey into bioinformatics was catalyzed by my grandfather, Krzysztof Kręc,
 
 ---
 
-🎓 **Education**
+## 🎓 Education
 - 🧬 **BSc in Bioinformatics, [SGGW-WULS](https://www.sggw.edu.pl/en/)**: Initiated my academic career by blending experimental and computational methodologies to investigate bacterial behavior. This foundational experience honed my affinity for data-driven research.
 
 - 🥒 **MSc in Bioinformatics, [SGGW-WULS](https://www.sggw.edu.pl/en/)**: Specialized in cucumber genomics, utilizing cutting-edge bioinformatics approaches to decode their genetic mechanisms. The diverse applicability of bioinformatics continues to fascinate me.
@@ -23,7 +23,7 @@ My journey into bioinformatics was catalyzed by my grandfather, Krzysztof Kręc,
 
 ---
 
-🔍 **Research Highlights**
+## 🔍 Research Highlights
 - **Bacterial Alchemy**: During my undergraduate years, I integrated experimental and computational strategies to explore the virulence factors of _Pseudomonas syringae_, operating at the intersection of biology and informatics.
   
 - **Cucumber Chronicles**: My Master's research ventured into the genomic aspects of cucumbers, applying modern bioinformatics algorithms to understand their gibberellin synthesis pathways.
