@@ -6,8 +6,7 @@
 
 ## 📌 About Me
 
-My **bio**-journey was inspired by my Grandpa, Krzysztof Kręc, who was a mycologist graduated from [UMCS](https://www.umcs.pl/en/). Inspired by my Grandpa I delved into the depths of biology, **overcoming my disability**. I've found out that one can "make biology" by means other than working in a vetlab - that is how I discovered fascinating field of **bioinormatics**. 
-As a passionate bioinformatic scientist, I've delved into the intricacies of life at the molecular level.
+My journey into bioinformatics was catalyzed by my grandfather, Krzysztof Kręc, a distinguished mycologist and an alumnus of [UMCS](https://www.umcs.pl/en/). Motivated by his legacy and my personal challenge with disability, I ventured into the world of biology, eventually discovering the transformative discipline of bioinformatics. I am committed to unraveling biological complexities at a molecular level, and my research portfolio is a testament to this dedication.
 
 ### Identifiers
 
@@ -16,26 +15,31 @@ As a passionate bioinformatic scientist, I've delved into the intricacies of lif
 ---
 
 🎓 **Education**
-- 🧬 BSc in Bioinformatics at [SGGW-WULS](https://www.sggw.edu.pl/en/): My academic voyage kick-started with a blend of experimental techniques and bioinformatics approaches to unravel the mysteries of bacteria. This early exposure laid the foundation for my love affair with data-driven scientific exploration.
-- 🥒 MSc in Bioinformatics at [SGGW-WULS](https://www.sggw.edu.pl/en/): During my master's, I shifted my focus to the fascinating world of cucumbers, employing advanced bioinformatics tools to study their genetic intricacies. The versatility of bioinformatics never ceases to amaze me!
-- 🍄 PhD in Bioinformatics at [IBB PAS](https://ibb.edu.pl/en/): My doctoral journey led me into the realm of early diverging fungi. Armed with an array of bioinformatic techniques, I embarked on deciphering the genomic secrets of these enigmatic organisms.
+- 🧬 **BSc in Bioinformatics, [SGGW-WULS](https://www.sggw.edu.pl/en/)**: Initiated my academic career by blending experimental and computational methodologies to investigate bacterial behavior. This foundational experience honed my affinity for data-driven research.
+
+- 🥒 **MSc in Bioinformatics, [SGGW-WULS](https://www.sggw.edu.pl/en/)**: Specialized in cucumber genomics, utilizing cutting-edge bioinformatics approaches to decode their genetic mechanisms. The diverse applicability of bioinformatics continues to fascinate me.
+- 
+- 🍄 **PhD in Bioinformatics, [IBB PAS](https://ibb.edu.pl/en/)**: Delved into the genomic intricacies of early diverging fungi, employing an assortment of bioinformatics techniques to decipher their proteomic architecture.
 
 ---
 
 🔍 **Research Highlights**
-- 🦠 Bacterial Alchemy: In my bachelor's years, I wove together experimental assays and bioinformatics wizardry to decode virulence effectors of _Pseudomonas syringae_, navigating between biology and informatics.
-- 🥒 Cucumber Chronicles: My master's escapade involved untangling the genomic vine of cucumbers, employing state-of-the-art bioinformatics methods to cultivate a deeper understanding of their giberellin synthesis enzymes.
-- 🍄 Fungal Odyssey: During my PhD, I embarked on an epic quest through the uncharted territories of early diverging fungi. Armed with computational prowess, I've been uncovering various tales encoded in their proteomes, by working mainly on functional annotation of domains of unknown functions and non-domain proteins.
+- **Bacterial Alchemy**: During my undergraduate years, I integrated experimental and computational strategies to explore the virulence factors of _Pseudomonas syringae_, operating at the intersection of biology and informatics.
+  
+- **Cucumber Chronicles**: My Master's research ventured into the genomic aspects of cucumbers, applying modern bioinformatics algorithms to understand their gibberellin synthesis pathways.
+
+- **Fungal Odyssey**: My doctoral work led me on a quest through the untapped landscapes of early diverging fungi. With computational acumen, I've been contributing to the functional annotation of domains with unknown functions and non-domain proteins.
+
 
 ---
 
 ## 🛠 Skills
 
-- **Languages**: Python, Bash
-- **Technologies**: HPC, Data Analysis
-- **Domains**: Bioinformatics, Proteomics, Genomics, Fungi, Statistics Foundamentals
-- **Bioinformatics Tools**: Protein Feature Prediction, Remote Homology Methods
-- **Other Skills**: Scientific Writing and Reading, Function Annotation of Proteins
+- **Programming Languages**: Python, Bash
+- **Technologies**: High-Performance Computing (HPC), Data Analysis
+- **Domains of Expertise**: Bioinformatics, Proteomics, Genomics, Fungi, Fundamental Statistics
+- **Bioinformatics Specialties**: Protein Feature Prediction, Remote Homology Methods
+- **Additional Skills**: Scientific Writing and Reading, Protein Function Annotation
 
 ---
 
@@ -43,7 +47,7 @@ As a passionate bioinformatic scientist, I've delved into the intricacies of lif
 
 - **[bioinfo_scripts_Python](https://github.com/a-kossakowski/bioinfo_scripts_Python)**: Practical coding presentations for bioinformatics.
 - **[bioinfo_scripts_Bash](https://github.com/a-kossakowski/bioinfo_scripts_Bash)**: Scripts for biological data cleaning and parsing.
-- **[breast_cancer_gene_expression_analysis](https://github.com/a-kossakowski/breast_cancer_gene_expression_analysis)**: Statistical analysis of RNAseq data of breast cancer cells drug treatment
+- **[breast_cancer_gene_expression_analysis](https://github.com/a-kossakowski/breast_cancer_gene_expression_analysis)**:  RNAseq-based statistical analysis of breast cancer cells in response to drug treatments.
 
 ---
 
@@ -61,5 +65,10 @@ As a passionate bioinformatic scientist, I've delved into the intricacies of lif
 
 ## 📝 Scientific Skills
 
-- **Scientific Writing**: Proficient in drafting and reviewing scientific papers.
-- **Scientific Results Presenting**: Showcasing research results in a understandable way.
+-- **Scientific Writing**: Adept at composing and reviewing academic manuscripts.
+- **Results Presentation**: Proficient in conveying research findings in a comprehensible manner.
+
+---
+
+Thank you for visiting my GitHub profile. I invite you to explore my repositories and would be delighted to discuss potential collaborations or any inquiries you may have.
+Feel free to make any adjustments to suit your needs!
