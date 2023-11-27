@@ -47,7 +47,7 @@ My journey into bioinformatics was catalyzed by my grandfather, Krzysztof Kręc,
 
 - **[bioinfo_scripts_Python](https://github.com/a-kossakowski/bioinfo_scripts_Python)**: Practical coding presentations for bioinformatics.
 - **[bioinfo_scripts_Bash](https://github.com/a-kossakowski/bioinfo_scripts_Bash)**: Scripts for biological data cleaning and parsing.
-- **[breast_cancer_gene_expression_analysis](https://github.com/a-kossakowski/breast_cancer_gene_expression_analysis)**:  RNAseq-based statistical analysis of breast cancer cells in response to drug treatments.
+- **[breast_cancer_gene_expression_analysis](https://github.com/a-kossakowski/breast_cancer_gene_expression_analysis)**: basic statistical analysis of RNAseq expression data of breast cancer cells in response to drug treatments.
 - **[scientific_essays](https://github.com/a-kossakowski/scientific_essays/)** - Scientific essays discussing topics of my personal interests in biology.
 ---
 
