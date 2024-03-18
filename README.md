@@ -49,7 +49,7 @@ My journey into bioinformatics was catalyzed by my grandfather, Krzysztof Kręc,
 - **[bioinfo_scripts_Bash](https://github.com/a-kossakowski/bioinfo_scripts_Bash)**: Scripts for biological data cleaning and parsing.
 - **[scientific_essays](https://github.com/a-kossakowski/scientific_essays/)** - Scientific essays discussing topics of my personal interests in biology.
 - **[articles_reviews](https://github.com/a-kossakowski/articles_reviews/tree/main)** - Personal reviews of scientific articles.
-- **[pofat](https://github.com/a-kossakowski/pofat/)** - Tool designed for scientists for easy and fast figure panel building.
+- **[pofat](https://github.com/a-kossakowski/pofat/)** - Tool designed with scientists in mind, for easy and fast figure panel building.
 ---
 
 ## 🎯 Research Interests
