@@ -2,7 +2,7 @@
 
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Researcher-blue)
 ![Python](https://img.shields.io/badge/Python-Proficient-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-orange)
+![Machine Learning Fundamentals](https://img.shields.io/badge/Machine%20Learning%20Fundamentals-Proficient-purple)
 ![Bash](https://img.shields.io/badge/Bash-Proficient-red)
 
 ## 📌 About Me
