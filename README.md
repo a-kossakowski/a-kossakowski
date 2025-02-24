@@ -2,6 +2,7 @@
 
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Researcher-blue)
 ![Python](https://img.shields.io/badge/Python-Proficient-green)
+![Machine Learning Fundamentals](https://img.shields.io/badge/Python-Proficient-green)
 ![Bash](https://img.shields.io/badge/Bash-Proficient-green)
 
 ## 📌 About Me
@@ -49,6 +50,7 @@ My journey into bioinformatics was catalyzed by my grandfather, Krzysztof Kręc,
 - **[bioinfo_scripts_Bash](https://github.com/a-kossakowski/bioinfo_scripts_Bash)**: Scripts for biological data cleaning and parsing.
 - **[scientific_essays](https://github.com/a-kossakowski/scientific_essays/)** - Scientific essays discussing topics of my personal interests in biology.
 - **[articles_reviews](https://github.com/a-kossakowski/articles_reviews/tree/main)** - Personal reviews of scientific articles.
+- **[ml_california_housing](https://github.com/a-kossakowski/ml_california_housing)** - Machine Learing project in Python attempting to model California housing prices.
 ---
 
 ## 🎯 Research Interests
@@ -57,6 +59,7 @@ My journey into bioinformatics was catalyzed by my grandfather, Krzysztof Kręc,
 - Genomics
 - Computational Biology/Bioinformatics
 - Programming
+- Machine learing
 - Fungi
 - Medical Sciences
 - Statistics
