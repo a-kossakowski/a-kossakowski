@@ -59,7 +59,7 @@ My journey into bioinformatics was catalyzed by my grandfather, Krzysztof Kręc,
 - Genomics
 - Computational Biology/Bioinformatics
 - Programming
-- Machine learing
+- Machine Learning
 - Fungi
 - Medical Sciences
 - Statistics
