@@ -46,11 +46,11 @@ My journey into bioinformatics was catalyzed by my grandfather, Krzysztof Kręc,
 
 ## 📚 Repositories
 
+- **[ml_california_housing](https://github.com/a-kossakowski/ml_california_housing)** - Machine Learing project in Python attempting to model California housing prices.
 - **[bioinfo_scripts_Python](https://github.com/a-kossakowski/bioinfo_scripts_Python)**: Practical coding presentations for bioinformatics.
 - **[bioinfo_scripts_Bash](https://github.com/a-kossakowski/bioinfo_scripts_Bash)**: Scripts for biological data cleaning and parsing.
 - **[scientific_essays](https://github.com/a-kossakowski/scientific_essays/)** - Scientific essays discussing topics of my personal interests in biology.
 - **[articles_reviews](https://github.com/a-kossakowski/articles_reviews/tree/main)** - Personal reviews of scientific articles.
-- **[ml_california_housing](https://github.com/a-kossakowski/ml_california_housing)** - Machine Learing project in Python attempting to model California housing prices.
 ---
 
 ## 🎯 Research Interests
