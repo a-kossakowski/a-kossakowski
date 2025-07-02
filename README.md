@@ -28,7 +28,7 @@ Today I focus on *in silico* dissection of molecular complexity, from bacteria t
 
 ## Research Highlights
 - **Bacterial Virulence** – integrated wet-lab and bioinformatics to profile *P. syringae* type III effectors.  
-- **Cucumber Genomics** – applied de-novo assembly & annotation pipelines to elucidate hormone pathways.  
+- **Cucumber Genomics** – _in silico_ analysis of giberelin pathways of cucumber.  
 - **Fungal Proteomes** – data analysis of proteins in early-diverging fungi.
 
 ---
