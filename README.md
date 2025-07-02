@@ -1,4 +1,4 @@
-# Hi there—I'm **Aleksander Kossakowski** (but friends call me **Alek** or **Olek**) 👋
+# Hi there—I'm **Aleksander Kossakowski** 👋
 
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Researcher-blue)
 ![Python](https://img.shields.io/badge/Python-Proficient-blue)
