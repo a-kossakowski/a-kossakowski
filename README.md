@@ -41,7 +41,8 @@ Today I focus on *in silico* dissection of molecular complexity, from bacteria t
 ---
 
 ## Featured Repositories
-- **[ml_california_housing](https://github.com/a-kossakowski/ml_california_housing)** – ML regression workflow in Python.  
+- **[ml_california_housing](https://github.com/a-kossakowski/ml_california_housing)** – ML regression workflow in Python.
+- **[utr_data_analysis](https://github.com/a-kossakowski/utr_data_analysis/)** - statistical data analysis of UTRs.
 - **[bioinfo_scripts_Python](https://github.com/a-kossakowski/bioinfo_scripts_Python)** – everyday bioinformatics utilities.  
 - **[bioinfo_scripts_Bash](https://github.com/a-kossakowski/bioinfo_scripts_Bash)** – shell helpers for data wrangling.  
 - **[scientific_essays](https://github.com/a-kossakowski/scientific_essays)** – short essays on biology topics.  
