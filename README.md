@@ -60,11 +60,5 @@ Proteomics • Comparative genomics • ML for biology • All things fungi • 
 
 ---
 
-## ✍️ Science Communication
-
-I love turning data into stories—whether that’s a figure for *Nature* or a quick Slack explanation. Need a collaborator, code review, or just a meme-worthy alignment plot? Reach out!
-
----
-
 Thanks for stopping by—feel free to open an issue, drop a comment, or just say hi.  
 *Happy coding & culturing!* 🧫🐍
