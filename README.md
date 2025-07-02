@@ -3,7 +3,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2173--759X-a6ce39)](https://orcid.org/0000-0003-2173-759X)
 [![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Researcher-blue)](#)
 [![Python](https://img.shields.io/badge/Python-Proficient-blue)](#)
-[![Machine Learning](https://img.shields.io/badge/Machine Learning-Fundamentals-purple)](#)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Fundamentals-purple)](#)
 [![Bash](https://img.shields.io/badge/Bash-Proficient-red)](#)
 
 > **Bioinformatician • PhD candidate • HPC & Python enthusiast**
