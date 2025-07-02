@@ -29,7 +29,7 @@ Today I focus on *in silico* dissection of molecular complexity, from bacteria t
 ## Research Highlights
 - **Bacterial Virulence** – integrated wet-lab and bioinformatics to profile *P. syringae* type III effectors.  
 - **Cucumber Genomics** – applied de-novo assembly & annotation pipelines to elucidate hormone pathways.  
-- **Fungal Proteomes** – developing methods to functionally annotate novel domains in early-diverging fungi.
+- **Fungal Proteomes** – data analysis of proteins in early-diverging fungi.
 
 ---
 
