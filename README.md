@@ -1,76 +1,70 @@
-# Hello, I'm Aleksander - Alek, Olek! 👋
+# Hi there—I'm **Aleksander Kossakowski** (but friends call me **Alek** or **Olek**) 👋
 
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Researcher-blue)
 ![Python](https://img.shields.io/badge/Python-Proficient-blue)
 ![Machine Learning Fundamentals](https://img.shields.io/badge/Machine%20Learning%20Fundamentals-Proficient-purple)
 ![Bash](https://img.shields.io/badge/Bash-Proficient-red)
 
-## 📌 About Me
+> *Decoding life’s code, one script at a time.*
 
-My journey into bioinformatics was catalyzed by my grandfather, Krzysztof Kręc, a distinguished mycologist and an alumnus of [UMCS](https://www.umcs.pl/en/). Motivated by his legacy and my personal challenge with disability, I ventured into the world of biology, eventually discovering the transformative discipline of bioinformatics. I am committed to unraveling biological complexities at a molecular level, and my research portfolio is a testament to this dedication.
+---
 
-### Identifiers
+## 📌 Quick Intro
 
-- **ORCID**: [0000-0003-2173-759X](https://orcid.org/0000-0003-2173-759X)
+Bioinformatics found me through my grandfather—Krzysztof Kręc, a noted mycologist and proud UMCS alumnus. Inspired by his legacy (and motivated by proving a disability doesn’t define me), I swapped the wet-lab pipette for a terminal prompt and never looked back. Today I untangle molecular puzzles, write plenty of Python, and still geek out over a beautiful fungal genome.
+
+**ORCID:** [0000-0003-2173-759X](https://orcid.org/0000-0003-2173-759X)
 
 ---
 
 ## 🎓 Education
-- 🧬 **BSc in Bioinformatics, [SGGW-WULS](https://www.sggw.edu.pl/en/)**: Initiated my academic career by blending experimental and computational methodologies to investigate bacterial behavior. This foundational experience honed my affinity for data-driven research.
 
-- 🥒 **MSc in Bioinformatics, [SGGW-WULS](https://www.sggw.edu.pl/en/)**: Specialized in cucumber genomics, utilizing cutting-edge bioinformatics approaches to decode their genetic mechanisms. The diverse applicability of bioinformatics continues to fascinate me.
-
-- 🍄 **PhD in Bioinformatics, [IBB PAS](https://ibb.edu.pl/en/)**: Delved into the genomic intricacies of early diverging fungi, employing an assortment of bioinformatics techniques to decipher their proteomic architecture.
-
----
-
-## 🔍 Research Highlights
-- **Bacterial Alchemy**: During my undergraduate years, I integrated experimental and computational strategies to explore the virulence factors of _Pseudomonas syringae_, operating at the intersection of biology and informatics.
-  
-- **Cucumber Chronicles**: My Master's research ventured into the genomic aspects of cucumbers, applying modern bioinformatics algorithms to understand their gibberellin synthesis pathways.
-
-- **Fungal Odyssey**: My doctoral work led me on a quest through the untapped landscapes of early diverging fungi. With computational acumen, I've been contributing to the functional annotation of domains with unknown functions and non-domain proteins.
-
+| Degree | Institution | Focus |
+|---|---|---|
+| **BSc Bioinformatics** | [SGGW-WULS](https://www.sggw.edu.pl/en/) | Experimental + computational insight into *Pseudomonas syringae* virulence |
+| **MSc Bioinformatics** | [SGGW-WULS](https://www.sggw.edu.pl/en/) | Cucumber genomics—dissecting gibberellin-related pathways |
+| **PhD Bioinformatics** | [IBB PAS](https://ibb.edu.pl/en/) | Early-diverging fungi: proteome architecture & mysterious domains |
 
 ---
 
-## 🛠 Skills
+## 🔍 Selected Projects
 
-- **Programming Languages**: Python, Bash
-- **Technologies**: High-Performance Computing (HPC), Data Analysis
-- **Domains of Expertise**: Bioinformatics, Proteomics, Genomics, Fungi, Fundamental Statistics
-- **Bioinformatics Specialties**: Protein Feature Prediction, Remote Homology Methods
-- **Additional Skills**: Scientific Writing and Reading, Protein Function Annotation
+* **Bacterial Alchemy** – Integrated wet-lab assays with in-silico pipelines to map *P. syringae* effector genes.  
+* **Cucumber Chronicles** – Deployed modern assembly & annotation workflows to profile hormone biosynthesis genes.  
+* **Fungal Odyssey** – Annotating domains of unknown function (DUFs) across basal fungal lineages; improving remote-homology models along the way.
 
 ---
 
-## 📚 Repositories
+## 🛠 Tech & Topic Stack
 
-- **[ml_california_housing](https://github.com/a-kossakowski/ml_california_housing)** - Machine Learing project in Python attempting to model California housing prices.
-- **[bioinfo_scripts_Python](https://github.com/a-kossakowski/bioinfo_scripts_Python)**: Practical coding presentations for bioinformatics.
-- **[bioinfo_scripts_Bash](https://github.com/a-kossakowski/bioinfo_scripts_Bash)**: Scripts for biological data cleaning and parsing.
-- **[scientific_essays](https://github.com/a-kossakowski/scientific_essays/)** - Scientific essays discussing topics of my personal interests in biology.
-- **[articles_reviews](https://github.com/a-kossakowski/articles_reviews/tree/main)** - Personal reviews of scientific articles.
----
-
-## 🎯 Research Interests
-
-- Proteomics
-- Genomics
-- Computational Biology/Bioinformatics
-- Programming
-- Machine Learning
-- Fungi
-- Medical Sciences
-- Statistics
+* **Languages:** Python | Bash  
+* **Specialties:** Protein feature prediction • Remote homology detection • Functional annotation  
+* **Comfort zone:** HPC • Data wrangling • Statistics • Scientific storytelling  
+* **Domains:** Proteomics • Genomics • Fungal biology • Machine learning foundations
 
 ---
 
-## 📝 Scientific Skills
+## 📚 Featured Repos
 
-- **Scientific Writing**: Adept at composing and reviewing academic manuscripts.
-- **Results Presentation**: Proficient in conveying research findings in a comprehensible manner.
+* [`ml_california_housing`](https://github.com/a-kossakowski/ml_california_housing) – Hands-on ML with the classic California housing dataset.  
+* [`bioinfo_scripts_Python`](https://github.com/a-kossakowski/bioinfo_scripts_Python) – Snippets & notebooks for everyday bioinformatics.  
+* [`bioinfo_scripts_Bash`](https://github.com/a-kossakowski/bioinfo_scripts_Bash) – Fast one-liners for messy FASTA/FASTQ life.  
+* [`scientific_essays`](https://github.com/a-kossakowski/scientific_essays) – Short reads on topics that keep me up at night.  
+* [`articles_reviews`](https://github.com/a-kossakowski/articles_reviews) – My informal take on recent papers.
 
 ---
 
-Thank you for visiting my GitHub profile. I invite you to explore my repositories and would be delighted to discuss potential collaborations or any inquiries you may have.
+## 🎯 Always Curious About
+
+Proteomics • Comparative genomics • ML for biology • All things fungi • Medical applications • Good coffee-and-stats chats
+
+---
+
+## ✍️ Science Communication
+
+I love turning data into stories—whether that’s a figure for *Nature* or a quick Slack explanation. Need a collaborator, code review, or just a meme-worthy alignment plot? Reach out!
+
+---
+
+Thanks for stopping by—feel free to open an issue, drop a comment, or just say hi.  
+*Happy coding & culturing!* 🧫🐍
