@@ -55,5 +55,5 @@ Proteomics • Genomics • Fungal biology • Machine learning • Medical bioi
 ---
 
 ### Let’s Connect
-Open an issue, drop a pull request, or simply say hi—collaborations and conversations are always welcome.  
+Feel free to open an issue, submit a pull request, or simply reach out, collaborations and conversations are always welcome.  
 Thanks for stopping by!
