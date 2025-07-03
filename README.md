@@ -12,6 +12,7 @@
 
 ## About Me
 Inspired by my grandfather, mycologist **Krzysztof Kręc** (UMCS), I turned a personal disability into motivation to explore biology through computation.  
+A disability has shaped—rather than limited—my curiosity, guiding me toward computational biology.  
 I’m eager to keep learning—especially in computer science, statistical analysis, and cutting-edge computational biology—while dissecting molecular complexity from bacteria to early-diverging fungi.
 
 ---
