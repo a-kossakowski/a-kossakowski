@@ -6,7 +6,7 @@
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Fundamentals-purple)](#)
 [![Bash](https://img.shields.io/badge/Bash-Proficient-red)](#)
 
-> **Bioinformatician • PhD candidate • HPC & Python enthusiast**
+> **Bioinformatics researcher • PhD candidate • HPC & Python enthusiast**
 
 ---
 
